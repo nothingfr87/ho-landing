@@ -4,7 +4,7 @@ A Simple Landing Page to test SPCK Editor on my phone
 
 ---
 
-> [!INFO]
+> [!NOTE]
 > By the way all of the files in this project are written in SPCK, and the git control was done in Termux
 
 ## What is this?
